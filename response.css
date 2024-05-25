@@ -1,0 +1,2928 @@
+
+
+@media  (max-width:1024px) {
+    
+
+    .rightpart {
+        margin-left: 29.9%;
+        width: 70%;
+    }
+    .rightpart .top {
+        margin-bottom: 10px;
+        height: 40px;
+        width: 96%;
+    }
+
+    .rightpart .top .Sign {
+        padding-left: 41vw;
+    }
+
+    .rightpart .showall {
+        padding-left: 46vw;
+    }
+
+    .rightpart .artist .radius {
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        bottom: 18px;
+        left: 16px;
+    }
+
+    .rightpart .artist .radius1 {
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        bottom: 18px;
+        left: 16px;
+    }
+
+    .rightpart .artist .radius2 {
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        bottom: 18px;
+        left: 16px;
+    }
+
+    .rightpart .artist .radius3 {
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        bottom: 18px;
+        left: 16px;
+    }
+
+    .rightpart .artist .radius4 {
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        bottom: 18px;
+        left: 16px;
+    }
+
+    .rightpart .artist {
+        min-width: 135px;
+    }
+
+    .rightpart .artist:nth-child(2) {
+        /* display: none; */
+        order: 3;
+    }
+
+    /* albums */
+
+    .rightpart .album .albradius {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 45px;
+        left: 16px;
+        text-overflow: ellipsis;
+    }
+
+    .rightpart .album .albradius1 {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 25px;
+        left: 16px;
+    }
+
+    .rightpart .album .albradius2 {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 25px;
+        left: 16px;
+    }
+
+    .rightpart .album .albradius3 {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 25px;
+        left: 16px;
+    }
+
+    .rightpart .album .albradius4 {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 48px;
+        left: 16px;
+    }
+
+    .rightpart .album .pritart {
+        font-size: small;
+
+        text-overflow: ellipsis;
+    }
+
+    .rightpart .album {
+        min-width: 135px;
+    }
+
+    /* Radio */
+
+    .rightpart .radio .pritart {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        padding-left: 10px;
+    }
+
+    .rightpart .radio a {
+        top: 120px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .rightpart .radio .radiords {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 100px;
+        left: 18px;
+        text-overflow: ellipsis;
+    }
+
+    .radiorow .radio .radiords .rr {
+        width: 40px;
+    }
+
+    .rightpart .radio .radiords1 {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 77px;
+        left: 18px;
+        text-overflow: ellipsis;
+    }
+
+    .radiorow .radio .radiords1 .rr {
+        width: 40px;
+    }
+
+    .rightpart .radio .radiords1 .name {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .rightpart .radio .radiords2 {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 77px;
+        left: 18px;
+        text-overflow: ellipsis;
+    }
+
+    .radiorow .radio .radiords2 .rr {
+        width: 40px;
+    }
+
+    .rightpart .radio .radiords2 .name {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .rightpart .radio .radiords3 {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 77px;
+        left: 18px;
+        text-overflow: ellipsis;
+    }
+
+    .radiorow .radio .radiords3 .rr {
+        width: 40px;
+    }
+    .rightpart .radio .radiords4 .icon {
+        width: 50%;
+        height: 30px;
+        background-image: url(/Items/icons8-spotify-logo-50.png);
+        background-size: 20px 20px;
+        color: black;
+        background-repeat: no-repeat;
+        padding-left: 20px;
+        font-size: small;
+        font-weight: bold;
+    }
+
+    .rightpart .radio .radiords3 .name {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .rightpart .radio .radiords4 {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 55px;
+        left: 18px;
+        text-overflow: ellipsis;
+    }
+
+    .radiorow .radio .radiords4 .rr {
+        width: 40px;
+    }
+
+
+
+    .rightpart .radio {
+        min-width: 135px;
+    }
+
+    /* Featured */
+
+    .rightpart .feature {
+        min-width: 135px;
+    }
+
+    .rightpart .feature .fcradius {
+        width: 89px;
+        height: 115px;
+        border-radius: 5px;
+        bottom: 55px;
+        left: 17px;
+    }
+
+    .rightpart .feature .fcradius1 {
+        width: 89px;
+        height: 115px;
+        border-radius: 5px;
+        bottom: 55px;
+        left: 17px;
+    }
+
+    .rightpart .feature .fcradius2 {
+        width: 89px;
+        height: 115px;
+        border-radius: 5px;
+        bottom: 55px;
+        left: 17px;
+    }
+
+    .rightpart .feature .fcradius3 {
+        width: 89px;
+        height: 115px;
+        border-radius: 5px;
+        bottom: 55px;
+        left: 17px;
+    }
+
+    .rightpart .feature .fcradius4 {
+        width: 89px;
+        height: 115px;
+        border-radius: 5px;
+        bottom: 55px;
+        left: 17px;
+    }
+
+    .rightpart .feature .pritart {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-size: small;
+    }
+
+    .rightpart .feature a {
+        font-size: medium;
+    }
+
+    /* social */
+    .rightpart .social {
+        min-width: 30px;
+        display: flex;
+        flex-direction: row;
+        margin: 2em auto;
+    }
+
+    
+    .footer {
+        width: 96.5vw;
+    }
+
+    .footer a {
+        margin-left: 175px;
+    }
+}
+
+
+
+@media  (max-width:1000px) {
+    
+
+    .rightpart {
+        margin-left: 29.9%;
+        width: 70%;
+    }
+    .rightpart .top {
+        margin-bottom: 10px;
+        height: 40px;
+        width: 96%;
+    }
+
+    .rightpart .top .Sign {
+        padding-left: 41vw;
+    }
+
+    .rightpart .showall {
+        padding-left: 46vw;
+    }
+
+    .rightpart .artist .radius {
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        bottom: 18px;
+        left: 16px;
+    }
+
+    .rightpart .artist .radius1 {
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        bottom: 18px;
+        left: 16px;
+    }
+
+    .rightpart .artist .radius2 {
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        bottom: 18px;
+        left: 16px;
+    }
+
+    .rightpart .artist .radius3 {
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        bottom: 18px;
+        left: 16px;
+    }
+
+    .rightpart .artist .radius4 {
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        bottom: 18px;
+        left: 16px;
+    }
+
+    .rightpart .artist {
+        min-width: 135px;
+    }
+
+    /* albums */
+
+    .rightpart .album .albradius {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 45px;
+        left: 16px;
+        text-overflow: ellipsis;
+    }
+
+    .rightpart .album .albradius1 {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 25px;
+        left: 16px;
+    }
+
+    .rightpart .album .albradius2 {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 25px;
+        left: 16px;
+    }
+
+    .rightpart .album .albradius3 {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 25px;
+        left: 16px;
+    }
+
+    .rightpart .album .albradius4 {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 48px;
+        left: 16px;
+    }
+
+    .rightpart .album .pritart {
+        font-size: small;
+
+        text-overflow: ellipsis;
+    }
+
+    .rightpart .album {
+        min-width: 135px;
+    }
+
+    /* Radio */
+
+    .rightpart .radio .pritart {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        padding-left: 10px;
+    }
+
+    .rightpart .radio a {
+        top: 120px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .rightpart .radio .radiords {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 100px;
+        left: 18px;
+        text-overflow: ellipsis;
+    }
+
+    .radiorow .radio .radiords .rr {
+        width: 40px;
+    }
+
+    .rightpart .radio .radiords1 {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 77px;
+        left: 18px;
+        text-overflow: ellipsis;
+    }
+
+    .radiorow .radio .radiords1 .rr {
+        width: 40px;
+    }
+
+    .rightpart .radio .radiords1 .name {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .rightpart .radio .radiords2 {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 77px;
+        left: 18px;
+        text-overflow: ellipsis;
+    }
+
+    .radiorow .radio .radiords2 .rr {
+        width: 40px;
+    }
+
+    .rightpart .radio .radiords2 .name {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .rightpart .radio .radiords3 {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 77px;
+        left: 18px;
+        text-overflow: ellipsis;
+    }
+
+    .radiorow .radio .radiords3 .rr {
+        width: 40px;
+    }
+    .rightpart .radio .radiords4 .icon {
+        width: 50%;
+        height: 30px;
+        background-image: url(/Items/icons8-spotify-logo-50.png);
+        background-size: 20px 20px;
+        color: black;
+        background-repeat: no-repeat;
+        padding-left: 20px;
+        font-size: small;
+        font-weight: bold;
+    }
+
+    .rightpart .radio .radiords3 .name {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .rightpart .radio .radiords4 {
+        width: 100px;
+        height: 100px;
+        border-radius: 7px;
+        bottom: 55px;
+        left: 18px;
+        text-overflow: ellipsis;
+    }
+
+    .radiorow .radio .radiords4 .rr {
+        width: 40px;
+    }
+
+
+
+    .rightpart .radio {
+        min-width: 135px;
+    }
+
+    /* Featured */
+
+    .rightpart .feature {
+        min-width: 135px;
+    }
+
+    .rightpart .feature .fcradius {
+        width: 89px;
+        height: 115px;
+        border-radius: 5px;
+        bottom: 55px;
+        left: 17px;
+    }
+
+    .rightpart .feature .fcradius1 {
+        width: 89px;
+        height: 115px;
+        border-radius: 5px;
+        bottom: 55px;
+        left: 17px;
+    }
+
+    .rightpart .feature .fcradius2 {
+        width: 89px;
+        height: 115px;
+        border-radius: 5px;
+        bottom: 55px;
+        left: 17px;
+    }
+
+    .rightpart .feature .fcradius3 {
+        width: 89px;
+        height: 115px;
+        border-radius: 5px;
+        bottom: 55px;
+        left: 17px;
+    }
+
+    .rightpart .feature .fcradius4 {
+        width: 89px;
+        height: 115px;
+        border-radius: 5px;
+        bottom: 55px;
+        left: 17px;
+    }
+
+    .rightpart .feature .pritart {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-size: small;
+    }
+
+    .rightpart .feature a {
+        font-size: medium;
+    }
+
+    /* social */
+    .rightpart .social {
+        min-width: 30px;
+        display: flex;
+        flex-direction: row;
+        margin: 2em auto;
+    }
+
+    
+    .footer {
+        width: 96.5vw;
+    }
+
+    .footer a {
+        margin-left: 175px;
+    }
+
+
+    @media  (max-width: 950px ) {
+
+        .spot {
+            min-width: 211px;
+        }
+    
+        .library {
+            min-width: 211px;
+        }
+    
+        .library #scrol {
+            margin-bottom: 20px;
+            margin-top: 1.5em;
+            width: 178px;
+            height: 19px;
+        }
+    
+    
+        .library .link {
+            margin: 0.2em;
+        }
+    
+        .library .plus {
+            margin-left: 2.5em;
+        }
+    
+        /* right-side */
+    
+        .rightpart {
+            margin-left: 26.9%;
+            height: 95.5vh;
+            width: 73%;
+        }
+    
+        .rightpart .top .Sign {
+            padding-left: 42vw;
+        }
+    
+        .rightpart .showall {
+            padding-left: 48vw;
+        }
+    
+        .rightpart .artist .radius {
+            width: 100px;
+            height: 100px;
+            border-radius: 50px;
+            bottom: 18px;
+            left: 16px;
+        }
+    
+        .rightpart .artist .radius1 {
+            width: 100px;
+            height: 100px;
+            border-radius: 50px;
+            bottom: 18px;
+            left: 16px;
+        }
+    
+        .rightpart .artist .radius2 {
+            width: 100px;
+            height: 100px;
+            border-radius: 50px;
+            bottom: 18px;
+            left: 16px;
+        }
+    
+        .rightpart .artist .radius3 {
+            width: 100px;
+            height: 100px;
+            border-radius: 50px;
+            bottom: 18px;
+            left: 16px;
+        }
+    
+        .rightpart .artist .radius4 {
+            width: 100px;
+            height: 100px;
+            border-radius: 50px;
+            bottom: 18px;
+            left: 16px;
+        }
+    
+        .rightpart .artist {
+            min-width: 135px;
+        }
+    
+        /* albums */
+    
+        .rightpart .album .albradius {
+            width: 100px;
+            height: 100px;
+            border-radius: 7px;
+            bottom: 45px;
+            left: 16px;
+            text-overflow: ellipsis;
+        }
+    
+        .rightpart .album .albradius1 {
+            width: 100px;
+            height: 100px;
+            border-radius: 7px;
+            bottom: 25px;
+            left: 16px;
+        }
+    
+        .rightpart .album .albradius2 {
+            width: 100px;
+            height: 100px;
+            border-radius: 7px;
+            bottom: 25px;
+            left: 16px;
+        }
+    
+        .rightpart .album .albradius3 {
+            width: 100px;
+            height: 100px;
+            border-radius: 7px;
+            bottom: 25px;
+            left: 16px;
+        }
+    
+        .rightpart .album .albradius4 {
+            width: 100px;
+            height: 100px;
+            border-radius: 7px;
+            bottom: 48px;
+            left: 16px;
+        }
+    
+        .rightpart .album .pritart {
+            font-size: small;
+    
+            text-overflow: ellipsis;
+        }
+    
+        .rightpart .album {
+            min-width: 135px;
+        }
+    
+        /* Radio */
+    
+        .rightpart .radio .pritart {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            padding-left: 10px;
+        }
+    
+        .rightpart .radio a {
+            top: 120px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+    
+        .rightpart .radio .radiords {
+            width: 100px;
+            height: 100px;
+            border-radius: 7px;
+            bottom: 100px;
+            left: 18px;
+            text-overflow: ellipsis;
+        }
+    
+        .radiorow .radio .radiords .rr {
+            width: 40px;
+        }
+    
+        .rightpart .radio .radiords1 {
+            width: 100px;
+            height: 100px;
+            border-radius: 7px;
+            bottom: 77px;
+            left: 18px;
+            text-overflow: ellipsis;
+        }
+    
+        .radiorow .radio .radiords1 .rr {
+            width: 40px;
+        }
+    
+        .rightpart .radio .radiords1 .name {
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+    
+        .rightpart .radio .radiords2 {
+            width: 100px;
+            height: 100px;
+            border-radius: 7px;
+            bottom: 77px;
+            left: 18px;
+            text-overflow: ellipsis;
+        }
+    
+        .radiorow .radio .radiords2 .rr {
+            width: 40px;
+        }
+    
+        .rightpart .radio .radiords2 .name {
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+    
+        .rightpart .radio .radiords3 {
+            width: 100px;
+            height: 100px;
+            border-radius: 7px;
+            bottom: 77px;
+            left: 18px;
+            text-overflow: ellipsis;
+        }
+    
+        .radiorow .radio .radiords3 .rr {
+            width: 40px;
+        }
+    
+        .rightpart .radio .radiords3 .name {
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+    
+        .rightpart .radio .radiords4 {
+            width: 100px;
+            height: 100px;
+            border-radius: 7px;
+            bottom: 55px;
+            left: 18px;
+            text-overflow: ellipsis;
+        }
+    
+        .radiorow .radio .radiords4 .rr {
+            width: 40px;
+        }
+        .rightpart .radio .radiords4 .icon {
+        width: 50%;
+        padding-left: 0px;
+        }
+    
+     .rightpart .radio .radiords3 .icon {
+        width: 50%;
+        padding-left: 0px;
+        }
+    
+    
+    
+        .rightpart .radio {
+            min-width: 135px;
+        }
+    
+        /* Featured */
+    
+        .rightpart .feature {
+            min-width: 135px;
+        }
+    
+        .rightpart .feature .fcradius {
+            width: 89px;
+            height: 115px;
+            border-radius: 5px;
+            bottom: 55px;
+            left: 17px;
+        }
+    
+        .rightpart .feature .fcradius1 {
+            width: 89px;
+            height: 115px;
+            border-radius: 5px;
+            bottom: 55px;
+            left: 17px;
+        }
+    
+        .rightpart .feature .fcradius2 {
+            width: 89px;
+            height: 115px;
+            border-radius: 5px;
+            bottom: 55px;
+            left: 17px;
+        }
+    
+        .rightpart .feature .fcradius3 {
+            width: 89px;
+            height: 115px;
+            border-radius: 5px;
+            bottom: 55px;
+            left: 17px;
+        }
+    
+        .rightpart .feature .fcradius4 {
+            width: 89px;
+            height: 115px;
+            border-radius: 5px;
+            bottom: 55px;
+            left: 17px;
+        }
+    
+        .rightpart .feature .pritart {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            font-size: small;
+        }
+    
+        .rightpart .feature a {
+            font-size: medium;
+        }
+    
+        /* social */
+        .rightpart .social {
+            min-width: 30px;
+            display: flex;
+            flex-direction: row;
+        }
+    
+        .footer {
+            width: 96.5vw;
+        }
+    
+        .footer a {
+            margin-left: 110px;
+        }
+    
+    }
+}
+
+
+@media  (max-width: 900px) {
+
+    .spot {
+        min-width: 191px;
+    }
+
+    .library {
+        min-width: 211px;
+        padding: 1em 0 0 0.5em;
+    }
+
+    .library #scrol {
+        margin-bottom: 20px;
+        margin-top: 1.5em;
+        width: 178px;
+        height: 19px;
+    }
+
+
+    .library .link {
+        margin: 0.2em;
+    }
+
+    .library .plus {
+        margin-left: 2.5em;
+    }
+
+    /* Right-side */
+
+    .rightpart .top .Sign {
+        text-decoration: none;
+        padding-left: 41vw;
+    }
+
+    .rightpart .showall {
+        padding-left: 47vw;
+    }
+
+    .rightpart {
+        margin-left: 25.9%;
+        height: 95.5vh;
+    }
+
+    .rightpart .artrow{
+       
+        gap: 1.2em;
+    }
+
+    .rightpart .artist:nth-child(5){
+        display: none;
+    }
+
+    .rightpart .albrow{
+       
+        gap: 1.2em;
+    }
+
+    .rightpart .album:nth-child(5){
+        display: none;
+    }
+
+    .rightpart .radiorow{
+       
+        gap: 1.2em;
+    }
+
+    .rightpart .radio:nth-child(5){
+        display: none;
+    }
+
+    .rightpart .radio .radiords3 .icon {
+    padding-left: 0px;
+    }
+
+    .rightpart .chartsrow{
+       
+        gap: 1.2em;
+    }
+
+    .rightpart .feature:nth-child(5){
+        display: none;
+    }
+
+    .rightpart .plans{
+        padding-left: 0px;
+      }
+
+
+    .rightpart .social {
+        /* display:flex; */
+        flex-wrap: wrap;
+        min-width: 30px;
+
+        flex-direction: row;
+    }
+
+    .footer {
+        width: 96.5vw;
+    }
+
+    .footer a {
+        margin-left: 88px;
+    }
+}
+
+@media (max-width: 850px){
+
+    .library .sec .browsbutton {
+        margin: 1em;
+    }
+
+.rightpart {
+        margin-left: 27.9%;
+        height: 96.5vh;
+        width: 72%;
+    }
+
+        .rightpart .top .Sign {
+        
+        padding-left: 38vw;
+    }
+
+
+    .rightpart .showall {
+        padding-left: 45vw;
+    }
+
+    .rightpart .artrow {
+        width: 70vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+
+
+    
+
+    }
+    .rightpart .artist:nth-child(2){
+        order: 1;
+    }
+   
+    .rightpart .artist:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+
+    .rightpart .albrow {
+        width: 70vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .album:nth-child(2){
+        order: 1;
+    }
+   
+    .rightpart .album:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+.rightpart .radiorow {
+        width: 70vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .radio:nth-child(4){
+        order: 1;
+    }
+   
+    .rightpart .radio .radiords .icon {
+        padding-left: 0px;}
+    .rightpart .radio:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .chartsrow {
+        width: 70vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .feature:nth-child(2){
+        order: 1;
+    }
+   
+    .rightpart .feature:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .feature .fcradius4 {
+    font-size: 1em;}
+    
+
+        .rightpart .visit {
+        width: 70vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+ .rightpart .plans{
+    margin-left: 0px;
+ }
+   
+    .rightpart .social{
+      height: 50px;
+      flex-direction: row;
+      align-self: center;
+    }
+    .footer {
+        width: 95.5vw;
+    }
+
+    .footer a {
+        margin-left: 82%;
+    
+    }
+
+}
+
+
+@media  (max-width: 800px){
+
+.rightpart .top{
+    width: 95%
+
+}
+
+    .rightpart {
+        margin-left: 28.9%;
+        height: 96.5vh;
+        width: 72.2%;
+       
+    }
+
+        .rightpart .top .Sign {
+        
+        padding-left: 34vw;
+    }
+
+
+    .rightpart .showall {
+        padding-left: 41vw;
+    }
+
+    .rightpart .artrow {
+        width: 69vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 0em;
+    /* gap: .5em;
+    margin-left: 0.4em; */
+    }
+    .rightpart .artist:nth-child(3){
+        order: 1;
+    }
+   
+    .rightpart .artist:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .albrow {
+        width: 69vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 0em;
+    /* gap: .5em;
+    margin-left: 0.4em; */
+    }
+    .rightpart .album:nth-child(3){
+        order: 1;
+    }
+   
+    .rightpart .album:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+.rightpart .radiorow {
+        width: 69vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    
+    justify-content: space-around;
+    /* gap: .5em;
+    margin-left: 0.4em; */
+    }
+    .rightpart .radio:nth-child(4){
+        order: 1;
+    }
+   
+    .rightpart .radio:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .chartsrow {
+        width: 69vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    /* gap: .5em;
+    margin-left: 0.4em; */
+    }
+    .rightpart .feature:nth-child(1){
+        order: 1;
+    }
+   
+    .rightpart .feature:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .feature .fcradius4 {
+    font-size: 1em;}
+    
+
+        .rightpart .visit {
+        width: 68vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 0px;
+  }
+  
+   
+    .rightpart .social{
+      height: 50px;
+     
+      flex-direction: column-reverse;
+      align-self: center;
+    }
+    .footer {
+        width: 95.5vw;
+    }
+
+    .footer a {
+        margin-left: 82%;
+    
+    }
+
+}
+
+@media  (max-width: 750px) {
+
+    .spot {
+        min-width: 185px;
+    }
+
+    .library {
+        min-width: 205px;
+        padding: 1em 0 0 0.5em;
+    }
+
+    .rightpart {
+        margin-left: 30%;
+        height: 96.5vh;
+        width: 70%;
+    }
+
+        .rightpart .top .Sign {
+        
+        padding-left: 31vw;
+    }
+
+
+    .rightpart .showall {
+        padding-left: 38vw;
+    }
+
+    .rightpart .artrow {
+        width: 68vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+    }
+    .rightpart .artist:nth-child(5){
+        order: 1;
+    }
+   
+    .rightpart .artist:nth-child(2){
+       /* align-self: center; */
+       /* align-self: stretch; */
+       display: block;
+    }
+    
+    .rightpart .albrow {
+        width: 68vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .album:nth-child(5){
+        order: 1;
+    }
+   
+    .rightpart .album:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;}
+
+       .rightpart .radiorow {
+        width: 68vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 0em;
+  
+    }
+    .rightpart .radio:nth-child(5){
+        order: 1;
+    }
+   
+    .rightpart .radio:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .chartsrow {
+        width: 68vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  margin-left: 0em;
+    }
+    .rightpart .feature:nth-child(5){
+        order: 1;
+    }
+   
+    .rightpart .feature:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .feature .fcradius4 {
+    font-size: 1em;}
+    
+
+        .rightpart .visit {
+        width: 68vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+   
+    .rightpart .social{
+      height: 50px;
+     
+      flex-direction: column-reverse;
+      align-self: center;
+    }
+
+    .footer {
+        width: 95.5vw;
+        height: 18vh;
+    }
+
+    .footer a {
+        margin-left: 82%;
+    /* margin-top: 30%; */
+    }
+
+}
+
+@media  (max-width: 700px) {
+
+    .spot {
+        min-width: 180px;
+    }
+
+    .library {
+        min-width: 200px;
+        padding: 1em 0 0 0.5em;
+    }
+
+    .rightpart {
+        margin-left: 32%;
+        height: 96.5vh;
+        width: 68%;
+    }
+
+        .rightpart .top .Sign {
+        
+        padding-left: 26vw;
+    }
+
+
+    .rightpart .showall {
+        padding-left: 34vw;
+    }
+
+    .rightpart .artrow {
+        width: 66vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+    }
+    .rightpart .artist:nth-child(5){
+        order: 1;
+    }
+   
+    .rightpart .artist:nth-child(2){
+       /* align-self: center; */
+       /* align-self: stretch; */
+       display: block;
+    }
+    
+    .rightpart .albrow {
+        width: 66vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .album:nth-child(5){
+        order: 1;
+    }
+   
+    .rightpart .album:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;}
+
+       .rightpart .radiorow {
+        width: 66vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .radio:nth-child(5){
+        order: 1;
+    }
+   
+    .rightpart .radio:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .chartsrow {
+        width: 66vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .feature:nth-child(5){
+        order: 1;
+    }
+   
+    .rightpart .feature:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .feature .fcradius4 {
+    font-size: 1em;}
+    
+
+        .rightpart .visit {
+        width: 66vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+   
+    .rightpart .social{
+      height: 50px;
+     
+      flex-direction: column-reverse;
+      align-self: center;
+    }
+
+    .footer {
+        width: 95.5vw;
+        height: 18vh;
+    }
+
+    .footer a {
+        margin-left: 82%;
+    /* margin-top: 30%; */
+    }
+
+}
+
+
+@media  (max-width: 650px) {
+
+    .spot {
+        min-width: 175px;
+    }
+
+    .library {
+        min-width: 195px;
+        padding: 1em 0 0 0.5em;
+    }
+
+    .library #scrol {
+        width: 165px;}
+
+    .rightpart {
+        margin-left: 33.5%;
+        height: 96.5vh;
+        width: 66%;
+    }
+
+    .rightpart .top{
+    width: 93.5%;}
+
+        .rightpart .top .Sign {
+        
+        padding-left: 21vw;
+    }
+
+
+    .rightpart .showall {
+        padding-left: 29vw;
+    }
+
+    .rightpart .artrow {
+        width: 60vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+    }
+    .rightpart .artist:nth-child(5){
+        order: 1;
+    }
+
+    .rightpart .artist:nth-child(1){
+        display: block;
+    }
+   
+    .rightpart .artist:nth-child(2){
+       /* align-self: center; */
+       /* align-self: stretch; */
+       display: block;
+    }
+    
+    .rightpart .albrow {
+        width: 60vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .album:nth-child(5){
+        order: 1;
+    }
+    .rightpart .album:nth-child(1){
+        display: block;
+    }
+    .rightpart .album:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;}
+
+       .rightpart .radiorow {
+        width: 60vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .radio:nth-child(5){
+        order: 1;
+    }
+
+    .rightpart .radio:nth-child(1){
+        display: block;
+    }
+   
+    .rightpart .radio:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .chartsrow {
+        width: 60vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .feature:nth-child(4){
+        order: 5;
+    }
+
+    .rightpart .feature:nth-child(1){
+        display: block;
+    }
+   
+    .rightpart .feature:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+    .rightpart .radio .radiords2 .icon {
+    width: 50%;
+    padding-left: 0px;}
+
+    .rightpart .feature .fcradius4 {
+    font-size: 1em;}
+    
+
+        .rightpart .visit {
+        width: 60vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+   
+    .rightpart .social{
+        margin-top: .5em;
+      height: 50px;
+     margin-left: 20%;
+      flex-direction: column-reverse;
+      align-self: center;
+    }
+
+    .footer {
+        width: 94.5vw;
+        height: 18vh;
+    }
+
+    .footer a {
+        margin-left: 69%;
+    /* margin-top: 30%; */
+    }
+
+}
+
+@media  (max-width: 600px) {
+
+    .spot {
+        min-width: 171px;
+    }
+        
+
+    .library {
+        min-width: 191px;
+        padding: 1em 0 0 0.5em;
+    }
+    .library .link {
+        margin: 0.6em;
+    }
+    .library #scrol {
+        width: 165px;
+        margin-bottom: 4px;
+        margin-top: 1em;}
+
+    .rightpart {
+        margin-left: 35.5%;
+        height: 96.5vh;
+        width: 64.5%;
+    }
+
+
+        .rightpart .top .Sign {
+        
+        padding-left: 16vw;
+    }
+
+
+    .rightpart .showall {
+        padding-left: 26vw;
+    }
+
+    .rightpart .artrow {
+        width: 62vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+    }
+    .rightpart .artist:nth-child(4){
+        order: 1;
+    }
+
+    .rightpart .artist:nth-child(1){
+        display: block;
+    }
+   
+    .rightpart .artist:nth-child(2){
+       /* align-self: center; */
+       /* align-self: stretch; */
+       display: block;
+    }
+    
+    .rightpart .albrow {
+        width: 62vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .album:nth-child(4){
+        order: 1;
+    }
+    .rightpart .album:nth-child(1){
+        display: block;
+    }
+    .rightpart .album:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;}
+
+       .rightpart .radiorow {
+        width: 62vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .radio:nth-child(33){
+        order: 1;
+    }
+
+    .rightpart .radio:nth-child(1){
+        display: block;
+    }
+   
+    .rightpart .radio:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .chartsrow {
+        width: 62vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .feature:nth-child(3){
+        order: 1;
+    }
+
+    .rightpart .feature:nth-child(3){
+        display: block;
+    }
+
+    .rightpart .feature:nth-child(1){
+        display: block;
+    }
+   
+    .rightpart .feature:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .feature .fcradius4 {
+    font-size: 1em;}
+    
+
+        .rightpart .visit {
+        width: 62vw;
+     
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+   
+    .rightpart .social{
+        margin-top: .5em;
+      height: 50px;
+     margin-left: 20%;
+      flex-direction: column-reverse;
+      align-self: center;
+    }
+
+    .footer {
+        width: 94vw;
+        height: 18vh;
+    }
+
+    .footer a {
+        margin-left: 56%;
+    /* margin-top: 30%; */
+    }
+
+}
+
+
+@media  (max-width: 550px) {
+
+    .spot {
+        min-width: 171px;
+    }
+        
+
+    .library {
+        min-width: 191px;
+        padding: 1em 0 0 0.5em;
+    }
+    .library .link {
+        margin: 0.6em;
+    }
+    .library #scrol {
+        width: 165px;
+        margin-bottom: 4px;
+        margin-top: 1em;}
+
+    .rightpart {
+        margin-left: 38.5%;
+        height: 96.5vh;
+        width: 61%;
+    }
+
+
+        .rightpart .top .Sign {
+        
+        padding-left: 7vw;
+    }
+    .rightpart .top{
+    width:91%}
+
+
+    .rightpart .showall {
+        padding-left: 18vw;
+    }
+
+    .rightpart .artrow {
+        margin-left: .2em;
+        width: 58vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+    }
+    .rightpart .artist:nth-child(4){
+        order: 1;
+    }
+
+    .rightpart .artist:nth-child(1){
+        display: block;
+    }
+   
+    .rightpart .artist:nth-child(2){
+       /* align-self: center; */
+       /* align-self: stretch; */
+       display: block;
+    }
+    
+    .rightpart .albrow {
+        margin-left: .2em;
+        width: 58vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .album:nth-child(4){
+        order: 1;
+    }
+    .rightpart .album:nth-child(1){
+        display:block;
+    }
+    .rightpart .album:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;}
+
+       .rightpart .radiorow {
+        margin-left: .2em;
+        width: 58vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .radio:nth-child(33){
+        order: 1;
+    }
+
+    .rightpart .radio:nth-child(1){
+        display: block;
+    }
+   
+    .rightpart .radio:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .chartsrow {
+        width: 58vw;
+        margin-left: .2em;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .feature:nth-child(3){
+        order: 1;
+    }
+
+    .rightpart .feature:nth-child(3){
+        display: bock;
+    }
+
+    .rightpart .feature:nth-child(1){
+        display: block;
+    }
+   
+    .rightpart .feature:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .feature .fcradius4 {
+    font-size: 1em;}
+    
+
+        .rightpart .visit {
+        width: 58vw;
+     
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .rightpart .useful{
+  height: 125px;
+  margin-bottom: 0em;
+  }
+  
+   
+    .rightpart .social{
+        margin-top: .5em;
+      height: 50px;
+     margin-left: 25%;
+      flex-direction: column-reverse;
+      align-self: center;
+    }
+
+.rightpart .plans{
+padding-left: 5px;
+
+}
+
+.rightpart .social{
+    padding-left: 5px;
+    
+    }
+    .footer {
+        width: 93vw;
+        height: 18vh;
+    }
+
+    .footer a {
+        margin-left: 46%;
+    /* margin-top: 30%; */
+    }
+
+}
+
+@media  (max-width: 500px) {
+
+    .spot {
+        min-width: 162px;
+    }
+        
+
+    .library {
+        min-width: 181px;
+        padding: 1em 0 0 0.5em;
+    }
+    .library .link {
+        margin: 0.6em;
+    }
+    .library #scrol {
+        width: 150px;
+        margin-bottom: -4px;
+        margin-top: .4em;}
+
+        .library .plus {
+            margin-left: 1.5em;
+        }
+
+    .rightpart {
+        margin-left: 40.5%;
+        height: 96.5vh;
+        width: 59%;
+    }
+
+
+        .rightpart .top .Sign {
+        
+        padding-left: 2vw;
+    }
+
+
+    .rightpart .showall {
+        padding-left: 13vw;
+    }
+
+
+    .rightpart .artrow {
+        margin-left: 0em;
+        width: 56vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+    }
+    .rightpart .artist:nth-child(4){
+        order: 1;
+    }
+
+    .rightpart .artist:nth-child(1){
+        display: block;
+    }
+   
+    .rightpart .artist:nth-child(2){
+       /* align-self: center; */
+       /* align-self: stretch; */
+       display: block;
+    }
+    
+    .rightpart .albrow {
+        margin-left: .2em;
+        width: 56vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .album:nth-child(4){
+        order: 1;
+    }
+    .rightpart .album:nth-child(1){
+        display: block;
+    }
+    .rightpart .album:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;}
+
+       .rightpart .radiorow {
+        margin-left: .2em;
+        width: 56vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .radio:nth-child(33){
+        order: 1;
+    }
+
+    .rightpart .radio:nth-child(1){
+        display: block;
+    }
+   
+    .rightpart .radio:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .chartsrow {
+        width: 56vw;
+        margin-left: .2em;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .feature:nth-child(3){
+        order: 1;
+    }
+
+    .rightpart .feature:nth-child(3){
+        display: block;
+    }
+
+    .rightpart .feature:nth-child(1){
+        display: block;
+    }
+   
+    .rightpart .feature:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .feature .fcradius4 {
+    font-size: 1em;}
+    
+    .rightpart .radio .radiords1 .icon {
+        width: 50%;
+        padding-left: 0px;}
+
+        .rightpart .visit {
+        width: 50vw;
+     
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .rightpart .communities {
+    min-width: 100px;
+    padding-left: 5px;
+   
+  }
+
+  .rightpart .company{
+    height:115px;
+  }
+
+  .rightpart .useful{
+    height: 105px;
+  }
+    .rightpart .social{
+        margin-top: -5em;
+      height: 50px;
+     margin-left: 10%;
+      flex-direction: row;
+    }
+
+.rightpart .plans{
+padding-left: 5px;
+margin-bottom: 4em;
+}
+
+.rightpart .social{
+    padding-left: 5px;
+    flex-direction: column;
+    margin-bottom: .5em;
+    }
+    .footer {
+        width: 92.5vw;
+        height: 18vh;
+    }
+
+    .footer a {
+        margin-left: 28%;
+    /* margin-top: 30%; */
+    }
+
+
+
+}
+
+@media  (max-width: 450px) {
+
+    .spot {
+        min-width: 152px;
+    }
+        
+
+    .library {
+        min-width: 171px;
+        padding: 1em 0 0 0.5em;
+    }
+    .library .link {
+        margin: 0.2em;
+    }
+
+    .library #scrol {
+        width: 140px;
+        margin-bottom: 5px;
+        margin-top: .4em;}
+
+        .library .plus {
+            margin-left: 1.5em;
+        }
+
+    .rightpart {
+        margin-left: 42.5%;
+        height: 96.5vh;
+        width: 57%;
+    }
+
+    .rightpart .top .log {
+
+        margin-left: 45px;}
+
+        .rightpart .top{
+            width: 89%;
+        } 
+        .rightpart .top .Sign {
+        display: none;
+        padding-left:0vw;
+    }
+
+
+    .rightpart .showall {
+        padding-left: 5vw;
+    }
+
+
+    .rightpart .artrow {
+        margin-left: 0em;
+        width: 54vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+    }
+    .rightpart .artist:nth-child(4){
+        order: 1;
+    }
+
+    .rightpart .artist:nth-child(1){
+        display: none;
+    }
+   
+    .rightpart .artist:nth-child(2){
+       /* align-self: center; */
+       /* align-self: stretch; */
+       display: block;
+    }
+    
+    .rightpart .albrow {
+        margin-left: .2em;
+        width: 54vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .album:nth-child(4){
+        order: 1;
+    }
+    .rightpart .album:nth-child(1){
+        display: none;
+    }
+    .rightpart .album:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;}
+
+       .rightpart .radiorow {
+        margin-left: .2em;
+        width: 54vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .radio:nth-child(33){
+        order: 1;
+    }
+
+    .rightpart .radio:nth-child(1){
+        display: none;
+    }
+   
+    .rightpart .radio:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .chartsrow {
+        width: 54vw;
+        margin-left: .2em;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .feature:nth-child(3){
+        order: 1;
+    }
+
+    .rightpart .feature:nth-child(3){
+        display: none;
+    }
+
+    .rightpart .feature:nth-child(1){
+        display: block;
+    }
+   
+    .rightpart .feature:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .feature .fcradius4 {
+    font-size: 1em;}
+    
+
+        .rightpart .visit {
+        width: 54vw;
+     
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .rightpart .communities {
+    min-width: 165px;
+    padding-left: 5px;
+  }
+
+  .rightpart .useful{
+    height: 75px;
+    margin-bottom: 1em;
+  }
+
+  .rightpart .company{
+    min-width: 125px;
+  }
+    .rightpart .social{
+        margin-top: -5em;
+      height: 50px;
+     margin-left: 10%;
+      flex-direction: row;
+    }
+
+.rightpart .plans{
+padding-left: 0px;
+min-width: 150px;
+
+
+}
+
+.rightpart .social{
+    padding-left: 25px;
+   flex-direction: column;
+    }
+    .footer {
+        width: 92.5vw;
+        height: 18vh;
+    }
+
+    .footer a {
+        margin-left: 70%;
+    /* margin-top: 30%; */
+    }
+}
+
+@media  (max-width: 400px) {
+
+    .spot {
+        min-width: 152px;
+    }
+        
+
+    .library {
+        min-width: 171px;
+        padding: 1em 0 0 0.5em;
+    }
+    .library .link {
+        margin: 0.2em;
+    }
+
+    .library #scrol {
+        width: 140px;
+        margin-bottom: 5px;
+        margin-top: .4em;}
+
+        .library .plus {
+            margin-left: 1.5em;
+        }
+
+    .rightpart {
+        margin-left: 48.5%;
+        height: 96.5vh;
+        width: 51%;
+        /* overflow-y: hidden; */
+    }
+
+    .rightpart .top .log {
+        
+        margin-left: 0px;}
+
+        .rightpart .top{
+            display: block;
+            width: 88%;
+        }
+
+
+        .rightpart .top .Sign {
+        
+        padding-left:0vw;
+    }
+
+
+    .rightpart .showall {
+        padding-left: -5vw;
+    }
+    .rightpart .art {
+        padding: 20px 5px 0px;}
+
+
+    .rightpart .artrow {
+        margin-left: 0em;
+        width:46vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+    }
+    .rightpart .artist:nth-child(4){
+        order: 1;
+    }
+
+    .rightpart .artist:nth-child(1){
+        display: none;
+    }
+   
+    .rightpart .artist:nth-child(2){
+       /* align-self: center; */
+       /* align-self: stretch; */
+       display: block;
+    }
+    
+    .rightpart .albrow {
+        margin-left: .2em;
+        width: 46vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .album:nth-child(4){
+        order: 1;
+    }
+    .rightpart .album:nth-child(1){
+        display: none;
+    }
+    .rightpart .album:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;}
+
+       .rightpart .radiorow {
+        margin-left: .2em;
+        width: 46vw;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .radio:nth-child(33){
+        order: 1;
+    }
+
+    .rightpart .radio:nth-child(1){
+        display: none;
+    }
+   
+    .rightpart .radio:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .chartsrow {
+        width: 46vw;
+        margin-left: .2em;
+        /* border: 1px solid aliceblue; */
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    }
+    .rightpart .feature:nth-child(3){
+        order: 1;
+    }
+
+    .rightpart .feature:nth-child(3){
+        display: none;
+    }
+
+    .rightpart .feature:nth-child(1){
+        display: block;
+    }
+   
+    .rightpart .feature:nth-child(2){
+       align-self: center;
+       /* align-self: stretch; */
+       display: block;
+    }
+
+    .rightpart .feature .fcradius4 {
+    font-size: 1em;}
+    
+
+        .rightpart .visit {
+        width:46vw;
+     
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .rightpart .communities {
+    min-width: 152px;
+    padding-left: 5px;
+  }
+
+  .rightpart .useful{
+    min-width: 155px;
+    height: 75px;
+    padding-left: 0px;
+  }
+
+  .rightpart .company{
+    min-width: 150px;
+    height: 100px;
+  }
+    .rightpart .social{
+        margin-top: -6em;
+        min-width: 130px;
+        padding:30px;
+      height: 50px;
+     margin-left: 10%;
+      flex-direction: row;
+    }
+
+.rightpart .plans{
+padding-left: 5px;
+min-width: 150px;
+
+
+}
+
+.rightpart .social{
+    padding-left: 5px;
+   
+    }
+    .footer {
+        width: 91.5vw;
+        height: 18vh;
+    }
+
+    .footer a {
+        margin-left: 65%;
+    /* margin-top: 30%; */
+    }
+}
+
+
+@media  (max-width: 350px) {
+
+    .spot {
+        /* text-align: center; */
+        min-width: 88vw;
+        
+    }
+    
+    .library a {
+        font-size: large;
+        /* padding-left: 10px; */
+    }
+        
+
+    .library {
+        min-width: 93vw;
+        padding: 1em 0 0 0.5em;
+    }
+   
+
+    .library .link {
+        margin: 0.4em;
+    }
+    .library .linky {
+        font-size: large;
+    }
+
+    .library .cooklink {
+        font-size: large;
+    }
+
+    .library #scrol {
+        width: 250px;
+        margin-bottom: 15px;
+        margin-top: .6em;}
+
+        .library .plus {
+            margin-left: 7em;
+        }
+
+        .rightpart {
+            margin-top: 5px;
+            position: absolute;
+           top: 100%;
+           right: 2px;
+            min-width:98vw;
+            height: 96.5vh;
+        }
+
+        .rightpart .top{
+            width: 92%;
+        }
+
+        .rightpart .top .Sign {
+            padding-left: 16vw;
+           
+        }
+        .rightpart .top .log {
+           margin-left: 34vw;
+           
+        }
+
+        .rightpart .showall {
+            padding-left: 29vw;
+        }
+
+        .rightpart .artrow {
+            margin-left: 0.4em;
+            width: 90vw;
+            
+        }
+
+        .rightpart .artist:nth-child(5) {
+            order: 1;
+            display: block;
+        }
+
+            .rightpart .albrow {
+                margin-left: 0.4em;
+                width: 90vw;
+                
+            }
+            .rightpart .album:nth-child(1) {
+                
+                display: block;
+            }
+
+                .rightpart .radiorow {
+                    margin-left: 0.4em;
+                    width: 90vw;
+                }
+
+                .rightpart .radio:nth-child(5) {
+                    
+                    display: block;
+                }
+                    .rightpart .chartsrow {
+                        margin-left: 0.4em;
+                        width: 90vw;}
+
+                        .rightpart .feature:nth-child(3) {
+                            display: block;
+                        }
+                        .rightpart .visit {
+                            width:90vw;
+                         
+                        flex-wrap: wrap;
+                        justify-content: space-around;
+                      }   
+
+                      .rightpart .social{
+                        padding-left: 18vw;
+                      }
+
+
+                      .footer {
+                        width: 89.5vw;
+                        height: 18vh;
+                        position: relative;
+                        top: 100vh;
+                    }
+
+                    .footer a {
+                       
+                        margin-left: 57%;
+                    }
+}
+
+@media  (max-width: 320px) {
+ 
+    .spot {
+        /* text-align: center; */
+        min-width: 88vw;
+        
+    }
+    
+    .library a {
+        font-size: large;
+        /* padding-left: 10px; */
+    }
+        
+
+    .library {
+        min-width: 93vw;
+        padding: 1em 0 0 0.5em;
+    }
+   
+
+    .library .link {
+        margin: 0.4em;
+    }
+    .library .linky {
+        font-size: large;
+    }
+
+    .library .cooklink {
+        font-size: large;
+    }
+
+    .library #scrol {
+        width: 250px;
+        margin-bottom: 15px;
+        margin-top: .6em;}
+
+        .library .plus {
+            margin-left: 7em;
+        }
+
+        .rightpart {
+            margin-top: 5px;
+            position: absolute;
+           top: 100%;
+           right: 2px;
+            min-width:98vw;
+            height: 96.5vh;
+        }
+
+        .rightpart .top{
+            width: 92%;
+        }
+
+        .rightpart .top .Sign {
+            padding-left: 16vw;
+           
+        }
+        .rightpart .top .log {
+           margin-left: 30vw;
+           
+        }
+
+        .rightpart .showall {
+            padding-left: 29vw;
+        }
+
+        .rightpart .artrow {
+            margin-left: 0.4em;
+            width: 90vw;
+            
+        }
+
+        .rightpart .artist:nth-child(5) {
+            order: 1;
+            display: block;
+        }
+
+            .rightpart .albrow {
+                margin-left: 0.4em;
+                width: 90vw;
+                
+            }
+            .rightpart .album:nth-child(1) {
+                
+                display: block;
+            }
+
+                .rightpart .radiorow {
+                    margin-left: 0.4em;
+                    width: 90vw;
+                }
+
+                .rightpart .radio:nth-child(5) {
+                    
+                    display: block;
+                }
+                    .rightpart .chartsrow {
+                        margin-left: 0.4em;
+                        width: 90vw;}
+
+                        .rightpart .feature:nth-child(3) {
+                            display: block;
+                        }
+                        .rightpart .visit {
+                            width:90vw;
+                         
+                        flex-wrap: wrap;
+                        justify-content: space-around;
+                      }   
+
+                      .rightpart .social{
+                        padding-left: 18vw;
+                      }
+
+                      .footer {
+                        width: 88.5vw;
+                        height: 18vh;
+                        position: relative;
+                        top: 100vh;
+                    }
+
+                    .footer a {
+                       
+                        margin-left: 57%;
+                    }
+}
+
+
+/* ------------------------------------------- */
+
+@media  (max-width: 768px) {
+
+    .rightpart {
+        margin-left: 30.9%;
+        height: 96.5vh;
+        width: 69%;
+    }
+
+    .rightpart .top .Sign {
+        padding-left: 31vw;
+    }
+
+    .rightpart .showall {
+        padding-left: 39vw;
+    }
+
+}
