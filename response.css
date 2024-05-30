@@ -1785,7 +1785,7 @@
         display: block;
         position: fixed;
         top: 2rem;
-        right: 7%;
+        right: 9%;
         z-index: 9999;
         /* display: none; */
     }
@@ -1857,13 +1857,25 @@
      
     }
 
+    .rightpart .home{
+        display: inline;
+    }
+
+    .rightpart .top .aero{
+        display: none;
+    }
+
+    .rightpart .top .log {
+        padding: 5px 15px 5px
+        }
+
     .rightpart .top {
         width: 96%;
     }
 
     .rightpart .top .Sign {
 
-        padding-left: 47vw;
+        padding-left: 42vw;
     }
 
 
@@ -2046,7 +2058,7 @@
 
     .rightpart .top .Sign {
 
-        padding-left: 43vw;
+        padding-left: 38vw;
     }
 
 
@@ -2196,6 +2208,9 @@
         margin: 5px 0px 5px 4em;
         font-size: 1rem;
     }
+    #book {
+        min-width: 210px;
+    }
 
 
     .library {
@@ -2222,14 +2237,13 @@
 
     .rightpart .top .Sign {
 
-        padding-left: 38vw;
+        padding-left: 33vw;
     }
 
     .rightpart .top {
         width: 95%
     }
-
-
+   
     .rightpart .showall {
         padding-left: 52vw;
     }
@@ -2398,7 +2412,7 @@
 
     }
     .hamburger ul li a {
-        margin: 5px 0px 5px 4em;
+        margin: 5px 0px 5px 3em;
         font-size: 1rem;
     }
 
@@ -2448,7 +2462,7 @@
 
     .rightpart .top .Sign {
       
-        padding-left: 30vw;
+        padding-left: 27vw;
     }
 
     /* .rightpart .top .log {
@@ -2682,7 +2696,7 @@
 
     .rightpart .top .Sign {
         /* display: none; */
-        padding-left: 23vw;
+        padding-left: 19vw;
     }
 
 
@@ -2872,6 +2886,11 @@
         /* display: none; */
     }
 
+    .hamburger ul li a {
+        margin: 5px 0px 5px 1em;
+        font-size: 1rem;
+    }
+
 
     .library {
         min-width: 161px;
@@ -2912,7 +2931,7 @@
 
     .rightpart .top .Sign {
 
-        padding-left: 12vw;
+        padding-left: 9vw;
     }
 
     /* .rightpart .top .log {
@@ -3121,6 +3140,11 @@
         /* display: none; */
     }
 
+    .hamburger ul li a {
+        margin: 5px 0px 5px 1em;
+        font-size: 1rem;
+    }
+    
     .library a {
         font-size: large;
         /* padding-left: 10px; */
@@ -3170,7 +3194,7 @@
 
     .rightpart .top .Sign {
         /* display: contents; */
-        padding-left: 4vw;
+        padding-left: 0vw;
 
     }
 
