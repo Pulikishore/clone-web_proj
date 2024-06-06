@@ -2881,7 +2881,7 @@
         display: block;
         position: fixed;
         top: 2rem;
-        right: 10%;
+        right: 8%;
         z-index: 9999;
         /* display: none; */
     }
@@ -3135,7 +3135,7 @@
         display: block;
         position: fixed;
         top: 1.5rem;
-        right: 12%;
+        right: 10%;
         z-index: 9999;
         /* display: none; */
     }
